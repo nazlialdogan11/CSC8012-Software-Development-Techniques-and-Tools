@@ -4,6 +4,11 @@
 
 This project aims to provide an interactive management system for FrozenFood, a company offering a meal subscription service to their customers.
 
+>___Feedback:___
+> `"Good code structure, good variable names. Well done."`
+> -*Mr M. Cavus*
+
+
 ## ⚙️ How to Install 
 
 Clone the project to your computer.
